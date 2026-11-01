@@ -1,0 +1,27 @@
+---
+title: "Education"
+---
+
+## Master of Science (M.S.) in Biomedical and Health Informatics
+
+<img src="CWRU.png" height="30" style="vertical-align: middle; margin-right: 8px;"/> **Case Western Reserve University** | Cleveland, OH  
+*In Progress*
+
+- **Focus:** Computational health, single-cell genomics, and health informatics.
+
+---
+
+## Bachelor of Science (B.S.) in Biotechnology & Biological Sciences
+
+<img src="Kent.png" height="30" style="vertical-align: middle; margin-right: 8px;"/> **Kent State University** | Kent, OH
+
+- **Focus:** Molecular biology, lipid interactions, and core biological sciences
+
+---
+
+### Certifications & Training
+
+<ul>
+  <li>ASCP-certified Technologist in Molecular Biology (MB)</li>
+  <li>Human Research Group 1, Biomedical Research Faculty, Staff, and Students (CITI Program)</li>
+</ul>

@@ -1,0 +1,26 @@
+---
+title: "Gloria Bazilevich"
+subtitle: "Research Assistant | Molecular technologist"
+# `profile.png` 
+image: profile.png
+about: # https://quarto.org/docs/websites/website-about.html
+  template: solana
+  
+---
+## About Me
+
+**Born and raised in Cleveland, Ohio**,my passion for biological science led me to Kent State University for my undergraduate studies. Over the next 10 years, I called Nashville, TN home, working in both clinical oncology and academic cancer research. Driven to expand my technical and analytical scope, I returned home to Cleveland to pursue my Master’s degree in Biomedical and Health Informatics at Case Western Reserve University. Alongside my studies, I work full-time as a Research Assistant IV, focusing on single-cell workflows and HIV genomics.
+
+
+
+
+
+## Contact Me
+
+Feel free to reach out for research collaborations or professional inquiries:
+
+- **Email:** [gxb328@case.edu](mailto:gxb328@case.edu)
+- **LinkedIn:** [linkedin.com/in/gloria-bazilevich](https://www.linkedin.com/in/gloria-bazilevich-711997b/)
+
+
+ 
